@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 SHORT_DESCRIPTION = "Write a short description of the project"
 REPO_NAME = "REPO_NAME"
 AUTHOR_USER_NAME = "vaasu2002"
-SRC_REPO = "src"
+SRC_REPO = "learning"
 AUTHOR_EMAIL = "vaasu.bisht2021@vitbhopal.ac.in"
 LIST_OF_REQUIREMENTS = []
 

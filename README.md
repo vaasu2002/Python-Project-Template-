@@ -31,3 +31,21 @@ Step 5 - Make setup.py then install it
 ```bash
 python setup.py install
 ```
+
+Create conda.yaml file (for ML Flow)
+```bash
+conda env export > conda.yaml
+```
+
+
+Running init_setup.sh
+```bash
+bash init_setup.sh
+```
+
+
+Creating conda environment using conda.yaml
+```bash
+conda env create -f conda.yaml
+```
+Activate using whatver is the name
