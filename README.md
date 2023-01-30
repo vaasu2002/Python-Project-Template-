@@ -21,3 +21,13 @@ conda activate ./env
 ```bash
 source activate ./env
 ```
+
+Step 4 - Make requireed files and directories
+```bash
+python template.py
+```
+
+Step 5 - Make setup.py then install it
+```bash
+python setup.py install
+```
